@@ -1,0 +1,57 @@
+body,html {
+    margin: 0;
+    padding:0;
+}
+
+header {
+    background: lightgray;
+    box-sizing: border-box;
+    padding: 20px;
+}
+
+.blue-square {
+    background-color: rgb(78, 78, 220);
+    width: 75px;
+    height: 75px;
+}
+
+article {
+    padding: 50px;
+    font-size: 25px;
+
+}
+
+.stripe {
+    height: 25vh;
+}
+
+.blue-box {
+    background-color: rgb(78, 78, 220);
+}
+.blue-green-box {
+    background-color: rgb(99, 187, 166);
+}
+.green-yellow-box {
+    background-color: yellowgreen;
+}
+.yellow-box {
+    background-color: yellow;
+}
+
+.question-box {
+    position: fixed;
+    right: 10px;
+    bottom: 10px;
+}
+
+.question-box button {
+    height: 60px;
+    width: 60px;
+    border-radius: 50%;
+    background-color: black;
+    color: white;
+    font-size: 43px;
+    font-weight: bold;
+}
+
+
